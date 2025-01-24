@@ -1,0 +1,31 @@
+% Unidade 1
+Bus: onibus, barramento;
+Bug: inseto, problema;
+Bike: bicicleta;
+Coller: ventilador;
+Network: rede de computadores;
+System: sistema;
+% Unidade 2
+Bug: inseto;
+Bicycle: bicicleta;
+Fan: ventilador;
+Network: rede de relacionamento;
+% Unidade 3
+Keyboard: teclado;
+Monitor: monitor;
+Mouse: mouse, rato;
+Laptop: notebook;
+Server: servidor;
+% Unidade 4
+Cloud: nuvem;
+Database: banco de dados;
+Security: seguranca;
+Network: rede, conexao;
+Device: dispositivo, aparelho;
+% Unidade 5
+Programming: programacao;
+Algorithm: algoritmo;
+Dog: cao, cachorro;
+City: cidade;
+Country: pais;
+Girl: garota, menina;
